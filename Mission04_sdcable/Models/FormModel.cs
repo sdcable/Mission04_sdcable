@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mission04_sdcable.Models
 {
+    //Models for each of the grade calculator. Required and Range on each of them.
     public class FormModel
     {
         [Range(0, 100)]
